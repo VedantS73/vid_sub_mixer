@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:07,080
+Atomic Habits by James Clear is a guide to harnessing the power of small habits for significant personal change.
+
+2
+00:00:07,080 --> 00:00:14,280
+Clear presents the four laws of behavior change, emphasizing small consistent actions as the key to success.
+
+3
+00:00:14,280 --> 00:00:21,600
+He introduces concepts like habit stacking and identity-based habits, stressing the importance of environment design.
+
+4
+00:00:21,600 --> 00:00:28,320
+Clear also highlights the plateau of latent potential, where persistent effort leads to remarkable results.
+
+5
+00:00:28,320 --> 00:00:37,120
+With a blend of scientific research and practical advice, the book provides a clear roadmap for readers to transform their lives by mastering the art of habit formation.
+
